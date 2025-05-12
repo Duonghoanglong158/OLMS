@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="5" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="scripts.invalidLoginTest">
+        <methods>
+          <include name="invalidBlankPasswordTest"/>
+          <include name="invalidUsernameTest"/>
+          <include name="setupTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- scripts.invalidLoginTest -->
+      <class name="scripts.cinemaBookingFromHomeToolTest">
+        <methods>
+          <include name="verifyBookingByHomeTool"/>
+          <include name="tearDown"/>
+          <include name="setupTest"/>
+          <include name="verifyLoginWithInvalidPassword"/>
+        </methods>
+      </class> <!-- scripts.cinemaBookingFromHomeToolTest -->
+      <class name="scripts.cinemaBookingTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setupTest"/>
+          <include name="bookingTest"/>
+        </methods>
+      </class> <!-- scripts.cinemaBookingTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

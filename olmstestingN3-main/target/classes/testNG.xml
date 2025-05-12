@@ -1,0 +1,16 @@
+<suite name="Test Suite" parallel="tests" thread-count="3">
+    <listeners>
+        <listener class-name="listeners.SimpleListener"/>
+    </listeners>
+
+    <test name="Regression Test">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="scripts.QlyLopHoc">
+                <methods>
+                    <include name ="verifyLopHoc"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

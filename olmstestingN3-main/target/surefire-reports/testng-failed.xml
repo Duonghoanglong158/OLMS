@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]" verbose="0">
+  <listeners>
+    <listener class-name="listeners.SimpleListener"/>
+  </listeners>
+  <test thread-count="5" name="Regression Test(failed)" verbose="0">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="scripts.cinemaBookingFromHomeToolTest">
+        <methods>
+          <include name="verifyBookingByHomeTool"/>
+          <include name="tearDown"/>
+          <include name="setupTest"/>
+        </methods>
+      </class> <!-- scripts.cinemaBookingFromHomeToolTest -->
+    </classes>
+  </test> <!-- Regression Test(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->
