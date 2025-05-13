@@ -940,3 +940,474 @@
 [INFO ] 2025-05-12 22:01:40.393 [main] SimpleListener - Test case passed: kiemTraChuyenTrangSauKhiNhanVaoDSBoiBai
 [INFO ] 2025-05-12 22:01:40.395 [main] BaseTest - Closing browser and quitting WebDriver...
 [INFO ] 2025-05-12 22:01:40.630 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-12 22:08:54.151 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-12 22:08:54.790 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-12 22:09:06.475 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-12 22:09:06.490 [main] SimpleListener - Test case started: verifyGhiDanhHocVien
+[INFO ] 2025-05-12 22:09:08.742 [main] SimpleListener - Test case passed: verifyGhiDanhHocVien
+[INFO ] 2025-05-12 22:09:08.745 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-05-12 22:09:08.982 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-12 22:09:29.578 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-12 22:09:30.237 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-12 22:09:41.817 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-12 22:09:41.834 [main] SimpleListener - Test case started: verifyGhiDanhHocVien
+[INFO ] 2025-05-12 22:09:44.053 [main] SimpleListener - Test case passed: verifyGhiDanhHocVien
+[INFO ] 2025-05-12 22:09:44.058 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-12 22:16:23.410 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-12 22:16:24.169 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-12 22:16:31.193 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-12 22:16:31.208 [main] SimpleListener - Test case started: KiemTraChucNangBTNDiemDanh
+[INFO ] 2025-05-12 22:16:33.463 [main] SimpleListener - Test case passed: KiemTraChucNangBTNDiemDanh
+[INFO ] 2025-05-12 22:16:33.468 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-12 22:16:58.349 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-12 22:16:58.980 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-12 22:17:11.735 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-12 22:17:11.749 [main] SimpleListener - Test case started: KiemTraChucNangBTNDiemDanh
+[INFO ] 2025-05-12 22:17:14.390 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-12 22:18:00.610 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-12 22:18:01.267 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-12 22:18:07.121 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-12 22:18:07.135 [main] SimpleListener - Test case started: KiemTraChucNangBTNDiemDanh
+[INFO ] 2025-05-12 22:18:09.151 [main] SimpleListener - Test case passed: KiemTraChucNangBTNDiemDanh
+[INFO ] 2025-05-12 22:18:09.156 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-12 22:22:35.068 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-12 22:22:35.717 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-12 22:22:41.679 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-12 22:22:41.693 [main] SimpleListener - Test case started: KiemTraDanhSachKhiDiemDanhVang
+[INFO ] 2025-05-12 22:22:45.127 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-12 22:24:29.305 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-12 22:24:29.927 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-12 22:24:41.641 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-12 22:24:41.654 [main] SimpleListener - Test case started: KiemTraDanhSachKhiDiemDanhVang
+[INFO ] 2025-05-12 22:24:54.369 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-12 22:25:29.392 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-12 22:25:30.081 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-12 22:25:36.280 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-12 22:25:36.295 [main] SimpleListener - Test case started: KiemTraDanhSachKhiDiemDanhVang
+[INFO ] 2025-05-12 22:25:39.501 [main] SimpleListener - Test case passed: KiemTraDanhSachKhiDiemDanhVang
+[INFO ] 2025-05-12 22:25:39.505 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-12 22:27:02.106 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-12 22:27:02.833 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-12 22:27:14.911 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-12 22:27:14.927 [main] SimpleListener - Test case started: KiemTraDanhSachKhiDiemDanhVang
+[INFO ] 2025-05-12 22:27:18.074 [main] SimpleListener - Test case passed: KiemTraDanhSachKhiDiemDanhVang
+[INFO ] 2025-05-12 22:27:18.078 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-12 22:37:12.800 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-12 22:37:13.444 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-12 22:37:24.974 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-12 22:37:24.993 [main] SimpleListener - Test case started: KiemTraNutDanhSachHocVienBoiBai
+[INFO ] 2025-05-12 22:37:29.235 [main] SimpleListener - Test case passed: KiemTraNutDanhSachHocVienBoiBai
+[INFO ] 2025-05-12 22:37:29.238 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-12 22:42:59.718 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-12 22:43:00.349 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-12 22:43:12.727 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-12 22:43:12.750 [main] SimpleListener - Test case started: kiemTraDanhDauDaBoiBai
+[INFO ] 2025-05-12 22:43:15.489 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-12 22:47:44.277 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-12 22:47:45.216 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-12 22:47:53.510 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-12 22:47:53.525 [main] SimpleListener - Test case started: kiemTraDanhDauDaBoiBai
+[INFO ] 2025-05-12 22:47:57.047 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-12 22:52:13.993 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-12 22:52:14.624 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-12 22:52:26.331 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-12 22:52:26.347 [main] SimpleListener - Test case started: kiemTraDanhDauDaBoiBai
+[INFO ] 2025-05-12 22:52:37.891 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-12 23:29:20.859 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-12 23:29:21.607 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-12 23:29:34.401 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-12 23:29:34.418 [main] SimpleListener - Test case started: kiemTraDanhDauDaBoiBai
+[INFO ] 2025-05-12 23:29:36.282 [main] SimpleListener - Test case passed: kiemTraDanhDauDaBoiBai
+[INFO ] 2025-05-12 23:29:36.283 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 12:23:44.781 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 12:23:45.560 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 12:23:58.489 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 12:23:58.504 [main] SimpleListener - Test case started: kiemTraDanhDauDaBoiBai
+[INFO ] 2025-05-13 12:24:00.565 [main] SimpleListener - Test case passed: kiemTraDanhDauDaBoiBai
+[INFO ] 2025-05-13 12:24:00.572 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 12:24:46.847 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 12:24:47.466 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 12:24:52.721 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 12:24:52.737 [main] SimpleListener - Test case started: kiemTraDanhDauDaBoiBai
+[INFO ] 2025-05-13 12:24:54.517 [main] SimpleListener - Test case passed: kiemTraDanhDauDaBoiBai
+[INFO ] 2025-05-13 12:24:54.521 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 12:26:21.896 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 12:26:22.552 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 12:26:28.381 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 12:26:28.395 [main] SimpleListener - Test case started: kiemTraDanhDauNghiTinhPhi
+[INFO ] 2025-05-13 12:26:30.458 [main] SimpleListener - Test case passed: kiemTraDanhDauNghiTinhPhi
+[INFO ] 2025-05-13 12:26:30.462 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 12:26:45.009 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 12:26:45.658 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 12:26:51.386 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 12:26:51.398 [main] SimpleListener - Test case started: kiemTraDanhDauNghiBaoLuu
+[INFO ] 2025-05-13 12:26:53.184 [main] SimpleListener - Test case passed: kiemTraDanhDauNghiBaoLuu
+[INFO ] 2025-05-13 12:26:53.185 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 12:31:12.305 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 12:31:12.939 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 12:31:18.649 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 12:31:18.661 [main] SimpleListener - Test case started: kiemTraClickHoiBuoiDiemDanh
+[INFO ] 2025-05-13 12:31:20.390 [main] SimpleListener - Test case passed: kiemTraClickHoiBuoiDiemDanh
+[INFO ] 2025-05-13 12:31:20.394 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 12:34:50.579 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 12:34:51.266 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 12:35:02.994 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 12:35:03.021 [main] SimpleListener - Test case started: testClickCreate
+[INFO ] 2025-05-13 12:35:04.985 [main] SimpleListener - Test case passed: testClickCreate
+[INFO ] 2025-05-13 12:35:04.989 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 12:50:17.210 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 12:50:17.261 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 12:50:23.205 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 12:50:23.220 [main] SimpleListener - Test case started: testInputIsDisabled
+[INFO ] 2025-05-13 12:50:28.444 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 12:51:34.887 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 12:51:34.933 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 12:52:14.587 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 12:52:15.223 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 12:52:26.864 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 12:52:26.878 [main] SimpleListener - Test case started: testInputIsDisabled
+[INFO ] 2025-05-13 12:52:29.214 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 12:53:17.660 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 12:53:18.298 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 12:53:29.767 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 12:53:29.780 [main] SimpleListener - Test case started: testInputIsDisabled
+[INFO ] 2025-05-13 12:53:32.052 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 12:56:38.041 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 12:56:38.675 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 12:56:50.260 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 12:56:50.273 [main] SimpleListener - Test case started: testInputIsDisabled
+[INFO ] 2025-05-13 12:56:52.241 [main] SimpleListener - Test case passed: testInputIsDisabled
+[INFO ] 2025-05-13 12:56:52.245 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 13:07:02.202 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 13:07:02.887 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 13:07:14.432 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 13:07:14.447 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:07:16.483 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:07:16.487 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 13:17:11.741 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 13:17:12.427 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 13:17:18.305 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 13:17:18.319 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:17:20.534 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 13:32:19.327 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 13:32:20.042 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 13:32:26.546 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 13:32:26.559 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:32:28.791 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:32:28.793 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 13:33:06.725 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 13:33:07.374 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 13:33:12.646 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 13:33:12.664 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:33:15.165 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:33:15.170 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 13:33:36.461 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 13:33:37.076 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 13:33:42.970 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 13:33:42.987 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:33:45.175 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:33:45.180 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 13:34:04.343 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 13:34:04.970 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 13:34:10.739 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 13:34:10.755 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:34:13.105 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:34:13.108 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 13:35:58.123 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 13:35:58.776 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 13:36:10.147 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 13:36:10.164 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:36:12.396 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:36:12.400 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 13:48:54.425 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 13:48:55.042 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 13:49:06.444 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 13:49:06.460 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:49:09.023 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 13:49:09.033 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 14:15:43.757 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 14:15:44.387 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 14:15:50.265 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 14:15:50.281 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 14:16:02.925 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 14:16:25.238 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 14:16:25.892 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 14:16:37.468 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 14:16:37.484 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 14:16:49.776 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 14:17:55.390 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 14:17:56.102 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 14:18:02.287 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 14:18:02.302 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 14:18:04.941 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 14:18:04.947 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 14:19:47.729 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 14:19:48.348 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 14:19:54.190 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 14:19:54.202 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 14:19:57.422 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 14:19:57.425 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 14:20:59.426 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 14:21:00.069 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 14:21:11.517 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 14:21:11.534 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 14:21:14.996 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 14:21:14.996 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 14:26:01.433 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 14:26:02.187 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 14:26:08.766 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 14:26:08.784 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 14:26:12.788 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 14:26:46.431 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 14:26:47.181 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 14:26:58.951 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 14:26:58.965 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 14:27:03.112 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 14:27:14.364 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 14:27:14.403 [main] SimpleListener - Test case started: testClickCreate
+[INFO ] 2025-05-13 14:27:16.612 [main] SimpleListener - Test case passed: testClickCreate
+[INFO ] 2025-05-13 14:27:16.655 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 14:27:27.470 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 14:27:27.486 [main] SimpleListener - Test case started: testInputIsDisabled
+[INFO ] 2025-05-13 14:27:29.609 [main] SimpleListener - Test case passed: testInputIsDisabled
+[INFO ] 2025-05-13 14:27:29.613 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 14:32:51.749 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 14:32:52.444 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 14:33:04.885 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 14:33:04.904 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 14:33:08.462 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 14:50:03.246 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 14:50:03.880 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 14:50:15.281 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 14:50:15.299 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 14:50:19.209 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 14:50:19.214 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 15:07:58.258 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 15:07:58.936 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 15:08:10.764 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 15:08:10.781 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:08:15.721 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 15:09:19.830 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 15:09:20.570 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 15:09:32.300 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 15:09:32.317 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:09:37.330 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 15:10:23.977 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 15:10:24.637 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 15:10:36.583 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 15:10:36.600 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:10:41.534 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 15:12:29.844 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 15:12:30.495 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 15:12:42.016 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 15:12:42.029 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:12:46.980 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 15:14:22.074 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 15:14:22.726 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 15:14:34.278 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 15:14:34.293 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:14:38.360 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:14:38.402 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 15:14:47.672 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 15:14:47.732 [main] SimpleListener - Test case started: testClickCreate
+[WARN ] 2025-05-13 15:14:47.738 [main] SimpleListener - Test case skipped: testClickCreate
+[WARN ] 2025-05-13 15:14:47.743 [main] SimpleListener - Reason for skip: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=136.0.7103.93)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [173f8814e3c9b6f76dcc695cd738378e, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\duong\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52217}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52217/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 173f8814e3c9b6f76dcc695cd738378e
+[INFO ] 2025-05-13 15:14:47.820 [main] SimpleListener - Test case started: testInputIsDisabled
+[WARN ] 2025-05-13 15:14:47.820 [main] SimpleListener - Test case skipped: testInputIsDisabled
+[WARN ] 2025-05-13 15:14:47.823 [main] SimpleListener - Reason for skip: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=136.0.7103.93)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [173f8814e3c9b6f76dcc695cd738378e, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.93, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\duong\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52217}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52217/devtoo..., se:cdpVersion: 136.0.7103.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 173f8814e3c9b6f76dcc695cd738378e
+[INFO ] 2025-05-13 15:14:47.830 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 15:16:17.318 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 15:16:17.957 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 15:16:29.438 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 15:16:29.456 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:16:43.614 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:16:43.617 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 15:20:18.324 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 15:20:19.025 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 15:20:30.700 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 15:20:30.717 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:20:44.519 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:20:44.523 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 15:23:19.981 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 15:23:20.672 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 15:23:26.586 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 15:23:26.604 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:23:34.022 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:23:34.025 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 15:26:03.816 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 15:26:04.484 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 15:26:16.104 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 15:26:16.123 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:26:24.674 [main] SimpleListener - Test case passed: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:26:24.678 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 15:28:50.734 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 15:28:51.373 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 15:28:57.252 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 15:28:57.268 [main] SimpleListener - Test case started: TaoLopHocVoiDayDuTruongBatBuoc
+[INFO ] 2025-05-13 15:29:11.367 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 15:32:47.325 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 15:32:47.971 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 15:32:59.346 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 15:32:59.364 [main] SimpleListener - Test case started: TaoLopHocVoiThieuTruongBatBuoc
+[INFO ] 2025-05-13 15:33:02.464 [main] SimpleListener - Test case passed: TaoLopHocVoiThieuTruongBatBuoc
+[INFO ] 2025-05-13 15:33:02.470 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 15:45:39.423 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 15:45:40.049 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 15:45:51.974 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 15:45:51.990 [main] SimpleListener - Test case started: KiemTraLopHocVuaTao
+[INFO ] 2025-05-13 15:45:53.408 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 15:47:10.076 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 15:47:10.821 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 15:47:22.233 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 15:47:22.250 [main] SimpleListener - Test case started: KiemTraLopHocVuaTao
+[INFO ] 2025-05-13 15:47:23.906 [main] SimpleListener - Test case passed: KiemTraLopHocVuaTao
+[INFO ] 2025-05-13 15:47:23.909 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:01:47.326 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:01:47.951 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:01:59.395 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:01:59.409 [main] SimpleListener - Test case started: KiemTraLopHocVuaTao
+[INFO ] 2025-05-13 16:02:01.207 [main] SimpleListener - Test case passed: KiemTraLopHocVuaTao
+[INFO ] 2025-05-13 16:02:01.211 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:02:17.501 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:02:18.169 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:02:29.742 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:02:29.761 [main] SimpleListener - Test case started: KiemTraLopHocVuaTao
+[INFO ] 2025-05-13 16:02:41.733 [main] SimpleListener - Test case passed: KiemTraLopHocVuaTao
+[INFO ] 2025-05-13 16:02:41.735 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:02:47.479 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:02:48.172 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:02:53.976 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:02:53.990 [main] SimpleListener - Test case started: KiemTraLopHocVuaTao
+[INFO ] 2025-05-13 16:03:05.921 [main] SimpleListener - Test case passed: KiemTraLopHocVuaTao
+[INFO ] 2025-05-13 16:03:05.929 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:12:26.560 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:12:27.216 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:12:38.870 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:12:38.886 [main] SimpleListener - Test case started: checkEditClass
+[INFO ] 2025-05-13 16:12:41.986 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:15:28.010 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:15:28.692 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:15:34.357 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:15:34.368 [main] SimpleListener - Test case started: checkEditClass
+[INFO ] 2025-05-13 16:15:36.612 [main] SimpleListener - Test case passed: checkEditClass
+[INFO ] 2025-05-13 16:15:36.616 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:17:44.245 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:17:44.909 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:17:50.454 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:17:50.470 [main] SimpleListener - Test case started: checkButtonDeleteClass
+[INFO ] 2025-05-13 16:17:53.696 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:18:16.218 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:18:16.949 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:18:28.746 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:18:28.759 [main] SimpleListener - Test case started: checkButtonDeleteClass
+[INFO ] 2025-05-13 16:18:32.125 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:19:50.294 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:19:50.927 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:19:56.526 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:19:56.542 [main] SimpleListener - Test case started: checkButtonDeleteClass
+[INFO ] 2025-05-13 16:19:59.570 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:22:16.809 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:22:17.489 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:22:23.354 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:22:23.371 [main] SimpleListener - Test case started: checkButtonDeleteClass
+[INFO ] 2025-05-13 16:22:25.277 [main] SimpleListener - Test case passed: checkButtonDeleteClass
+[INFO ] 2025-05-13 16:22:25.282 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:26:26.381 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:26:26.997 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:26:32.714 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:26:32.729 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:26:35.132 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:28:15.728 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:28:16.397 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:28:27.156 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:28:27.172 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:28:30.495 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:29:30.748 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:29:31.409 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:29:43.050 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:29:43.068 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:29:46.434 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:33:17.354 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:33:17.969 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:33:29.332 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:33:29.345 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:33:32.548 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:35:19.819 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:35:20.650 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:35:26.456 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:35:26.470 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:35:29.618 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:36:42.669 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:36:43.271 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:36:48.977 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:36:48.986 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:36:52.241 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:41:28.432 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:41:29.063 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:41:40.469 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:41:40.489 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:41:43.532 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:42:11.457 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:42:12.092 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:42:23.385 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:42:23.398 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:42:25.702 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:42:55.246 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:42:55.928 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:43:07.433 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:43:07.447 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:43:09.384 [main] SimpleListener - Test case passed: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:43:09.387 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:46:11.547 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:46:12.175 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:46:18.296 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:46:18.310 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:46:21.581 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:46:56.632 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:46:57.257 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:47:02.361 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:47:02.379 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:47:05.505 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:52:55.264 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:52:55.890 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:53:07.372 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:53:07.388 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:53:09.791 [main] SimpleListener - Test case passed: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:53:09.793 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:54:38.364 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:54:38.984 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:54:50.284 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:54:50.299 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:54:52.949 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:55:37.321 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:55:37.976 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:55:49.495 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:55:49.509 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:55:51.818 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:57:15.894 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:57:16.770 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:57:22.593 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:57:22.608 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:57:25.383 [main] SimpleListener - Test suite finished: olmstestingN3-main
+[INFO ] 2025-05-13 16:58:58.206 [main] SimpleListener - Test suite started: olmstestingN3-main
+[INFO ] 2025-05-13 16:58:58.884 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-05-13 16:59:10.371 [main] BaseTest - Navigated to test site: https://olms.codedao.io.vn/login
+[INFO ] 2025-05-13 16:59:10.389 [main] SimpleListener - Test case started: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:59:13.153 [main] SimpleListener - Test case passed: checkAfterDeleteClass
+[INFO ] 2025-05-13 16:59:13.156 [main] SimpleListener - Test suite finished: olmstestingN3-main
